@@ -63,8 +63,8 @@ plugins: ['jekyll/scholar']
 
 scholar:
 
-  last_name: Doe
-  first_name: [John]
+  last_name: Lawan
+  first_name: Falalu Ibrahim
 
   style: citesty
   locale: en
